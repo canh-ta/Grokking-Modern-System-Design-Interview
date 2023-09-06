@@ -1,6 +1,6 @@
 # Table of contents
 
-- [System Design Interviews](README.md) [ ]
+- [System Design Interviews](README.md) [x]
   - [What Is a System Design Interview?](system-design-interviews/what-is-a-system-design-interview.md) [ ]
   - [How to Prepare for Success](system-design-interviews/how-to-prepare-for-success.md) [ ]
   - [How to Perform Well](system-design-interviews/how-to-perform-well.md) [ ]
