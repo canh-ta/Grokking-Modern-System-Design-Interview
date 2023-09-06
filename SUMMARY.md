@@ -1,11 +1,11 @@
 # Table of contents
 
 - [System Design Interviews](README.md) [x]
-  - [What Is a System Design Interview?](system-design-interviews/what-is-a-system-design-interview.md) [ ]
-  - [How to Prepare for Success](system-design-interviews/how-to-prepare-for-success.md) [ ]
+  - [What Is a System Design Interview?](system-design-interviews/what-is-a-system-design-interview.md) [x]
+  - [How to Prepare for Success](system-design-interviews/how-to-prepare-for-success.md) [x]
   - [How to Perform Well](system-design-interviews/how-to-perform-well.md) [ ]
-- [Abstractions](abstractions/README.md) [ ]
-  - [Why Are Abstractions Important?](abstractions/why-are-abstractions-important.md) [ ]
+- [Abstractions](abstractions/README.md) [x]
+  - [Why Are Abstractions Important?](abstractions/why-are-abstractions-important.md) [x]
   - [Network Abstractions: Remote Procedure Calls](abstractions/network-abstractions-remote-procedure-calls.md) [ ]
   - [Spectrum of Consistency Models](abstractions/spectrum-of-consistency-models.md) [ ]
   - [The Spectrum of Failure Models](abstractions/the-spectrum-of-failure-models.md) [ ]
