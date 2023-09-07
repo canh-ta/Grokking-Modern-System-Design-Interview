@@ -16,10 +16,10 @@
   - [Maintainability](non-functional-system-characteristics/maintainability.md) [x]
   - [Fault Tolerance](non-functional-system-characteristics/fault-tolerance.md) [x]
 - [Back-of-the-envelope Calculations](back-of-the-envelope-calculations/README.md)
-  - [Put Back-of-the-envelope Numbers in Perspective](back-of-the-envelope-calculations/put-back-of-the-envelope-numbers-in-perspective.md) [ ]
-  - [Examples of Resource Estimation](back-of-the-envelope-calculations/page-2.md) [ ]
+  - [Put Back-of-the-envelope Numbers in Perspective](back-of-the-envelope-calculations/put-back-of-the-envelope-numbers-in-perspective.md) [?]
+  - [Examples of Resource Estimation](back-of-the-envelope-calculations/page-2.md) [?]
 - [Building Blocks](building-blocks.md)
-  - [Introduction to Building Blocks for Modern System Design](building-blocks/introduction-to-building-blocks-for-modern-system-design.md) [ ]
+  - [Introduction to Building Blocks for Modern System Design](building-blocks/introduction-to-building-blocks-for-modern-system-design.md) [x]
 - [Domain Name System](domain-name-system.md)
   - [Introduction to Domain Name System (DNS)](domain-name-system/introduction-to-domain-name-system-dns.md) [ ]
   - [How the Domain Name System Works](domain-name-system/how-the-domain-name-system-works.md) [ ]
