@@ -10,11 +10,11 @@
   - [Spectrum of Consistency Models](abstractions/spectrum-of-consistency-models.md) [x]
   - [The Spectrum of Failure Models](abstractions/the-spectrum-of-failure-models.md) [x]
 - [Non-functional System Characteristics](non-functional-system-characteristics/README.md)
-  - [Availability](non-functional-system-characteristics/availability.md) [ ]
-  - [Reliability](non-functional-system-characteristics/reliability.md) [ ]
-  - [Scalability](non-functional-system-characteristics/scalability.md) [ ]
-  - [Maintainability](non-functional-system-characteristics/maintainability.md) [ ]
-  - [Fault Tolerance](non-functional-system-characteristics/fault-tolerance.md) [ ]
+  - [Availability](non-functional-system-characteristics/availability.md) [x]
+  - [Reliability](non-functional-system-characteristics/reliability.md) [x]
+  - [Scalability](non-functional-system-characteristics/scalability.md) [x]
+  - [Maintainability](non-functional-system-characteristics/maintainability.md) [x]
+  - [Fault Tolerance](non-functional-system-characteristics/fault-tolerance.md) [x]
 - [Back-of-the-envelope Calculations](back-of-the-envelope-calculations/README.md)
   - [Put Back-of-the-envelope Numbers in Perspective](back-of-the-envelope-calculations/put-back-of-the-envelope-numbers-in-perspective.md) [ ]
   - [Examples of Resource Estimation](back-of-the-envelope-calculations/page-2.md) [ ]
