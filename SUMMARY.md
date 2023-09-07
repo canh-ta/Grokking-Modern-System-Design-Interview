@@ -1,33 +1,33 @@
 # Table of contents
 
-- [System Design Interviews](README.md) [x]
+- [System Design Interviews](README.md)
   - [What Is a System Design Interview?](system-design-interviews/what-is-a-system-design-interview.md) [x]
   - [How to Prepare for Success](system-design-interviews/how-to-prepare-for-success.md) [x]
   - [How to Perform Well](system-design-interviews/how-to-perform-well.md) [ ]
-- [Abstractions](abstractions/README.md) [x]
+- [Abstractions](abstractions/README.md)
   - [Why Are Abstractions Important?](abstractions/why-are-abstractions-important.md) [x]
   - [Network Abstractions: Remote Procedure Calls](abstractions/network-abstractions-remote-procedure-calls.md) [?]
   - [Spectrum of Consistency Models](abstractions/spectrum-of-consistency-models.md) [x]
   - [The Spectrum of Failure Models](abstractions/the-spectrum-of-failure-models.md) [x]
-- [Non-functional System Characteristics](non-functional-system-characteristics/README.md) [ ]
+- [Non-functional System Characteristics](non-functional-system-characteristics/README.md)
   - [Availability](non-functional-system-characteristics/availability.md) [ ]
   - [Reliability](non-functional-system-characteristics/reliability.md) [ ]
   - [Scalability](non-functional-system-characteristics/scalability.md) [ ]
   - [Maintainability](non-functional-system-characteristics/maintainability.md) [ ]
   - [Fault Tolerance](non-functional-system-characteristics/fault-tolerance.md) [ ]
-- [Back-of-the-envelope Calculations](back-of-the-envelope-calculations/README.md) [ ]
+- [Back-of-the-envelope Calculations](back-of-the-envelope-calculations/README.md)
   - [Put Back-of-the-envelope Numbers in Perspective](back-of-the-envelope-calculations/put-back-of-the-envelope-numbers-in-perspective.md) [ ]
   - [Examples of Resource Estimation](back-of-the-envelope-calculations/page-2.md) [ ]
-- [Building Blocks](building-blocks.md) [ ]
+- [Building Blocks](building-blocks.md)
   - [Introduction to Building Blocks for Modern System Design](building-blocks/introduction-to-building-blocks-for-modern-system-design.md) [ ]
-- [Domain Name System](domain-name-system.md) [ ]
-  - [Introduction to Domain Name System (DNS) [ ]](domain-name-system/introduction-to-domain-name-system-dns.md) [ ]
+- [Domain Name System](domain-name-system.md)
+  - [Introduction to Domain Name System (DNS)](domain-name-system/introduction-to-domain-name-system-dns.md) [ ]
   - [How the Domain Name System Works](domain-name-system/how-the-domain-name-system-works.md) [ ]
-- [Load Balancers](load-balancers.md) [ ]
+- [Load Balancers](load-balancers.md)
   - [Introduction to Load Balancers](load-balancers/introduction-to-load-balancers.md) [ ]
   - [Global and Local Load Balancing](load-balancers/global-and-local-load-balancing.md) [ ]
   - [Advanced Details of Load Balancers](load-balancers/advanced-details-of-load-balancers.md) [ ]
-- [Databases](databases.md) [ ]
+- [Databases](databases.md)
   - [Introduction to Databases](databases/introduction-to-databases.md) [ ]
   - [Types of Databases](databases/types-of-databases/README.md) [ ]
     - [Relational Database](databases/types-of-databases/relational-database.md) [ ]
@@ -52,42 +52,42 @@
   - [Eventual Consistency](databases/eventual-consistency.md) [ ]
   - [Strong Consistency](databases/strong-consistency.md) [ ]
   - [CAP Theorem](databases/cap-theorem.md) [ ]
-- [Key-value Store](key-value-store/README.md) [ ]
+- [Key-value Store](key-value-store/README.md)
   - [Design of a Key-value Store](key-value-store/design-of-a-key-value-store.md) [ ]
   - [Versioning Data and Achieving Configurability](key-value-store/versioning-data-and-achieving-configurability.md) [ ]
   - [Ensure Scalability and Replication](key-value-store/ensure-scalability-and-replication.md) [ ]
   - [Enable Fault Tolerance and Failure Detection](key-value-store/enable-fault-tolerance-and-failure-detection.md) [ ]
   - [System Design: The Key-value Store](key-value-store/system-design-the-key-value-store.md) [ ]
-- [Content Delivery Network (CDN) [ ]](content-delivery-network-cdn/README.md) [ ]
+- [Content Delivery Network (CDN)](content-delivery-network-cdn/README.md)
   - [System Design: The Content Delivery Network (CDN) [ ]](content-delivery-network-cdn/system-design-the-content-delivery-network-cdn.md) [ ]
   - [Introduction to a CDN](content-delivery-network-cdn/introduction-to-a-cdn.md) [ ]
   - [Design of a CDN](content-delivery-network-cdn/design-of-a-cdn.md) [ ]
   - [In-depth Investigation of CDN: Part 1](content-delivery-network-cdn/in-depth-investigation-of-cdn-part-1.md) [ ]
   - [In-depth Investigation of CDN: Part 2](content-delivery-network-cdn/in-depth-investigation-of-cdn-part-2.md) [ ]
   - [Evaluation of CDN's Design](content-delivery-network-cdn/evaluation-of-cdns-design.md) [ ]
-- [Sequencer](sequencer/README.md) [ ]
+- [Sequencer](sequencer/README.md)
   - [System Design: Sequencer](sequencer/system-design-sequencer.md) [ ]
   - [Design of a Unique ID Generator](sequencer/design-of-a-unique-id-generator.md) [ ]
   - [Unique IDs with Causality](sequencer/unique-ids-with-causality.md) [ ]
-- [Distributed Monitoring](distributed-monitoring/README.md) [ ]
+- [Distributed Monitoring](distributed-monitoring/README.md)
   - [System Design: Distributed Monitoring](distributed-monitoring/system-design-distributed-monitoring.md) [ ]
   - [Introduction to Distributed Monitoring](distributed-monitoring/introduction-to-distributed-monitoring.md) [ ]
   - [Prerequisites of a Monitoring System](distributed-monitoring/prerequisites-of-a-monitoring-system.md) [ ]
-- [Monitor Server-side Errors](monitor-server-side-errors/README.md) [ ]
+- [Monitor Server-side Errors](monitor-server-side-errors/README.md)
   - [Design of a Monitoring System](monitor-server-side-errors/design-of-a-monitoring-system.md) [ ]
   - [Detailed Design of a Monitoring System](monitor-server-side-errors/detailed-design-of-a-monitoring-system.md) [ ]
   - [Visualize Data in a Monitoring System](monitor-server-side-errors/visualize-data-in-a-monitoring-system.md) [ ]
-- [Monitor Client-side Errors](monitor-client-side-errors/README.md) [ ]
+- [Monitor Client-side Errors](monitor-client-side-errors/README.md)
   - [Focus on Client-side Errors in a Monitoring System](monitor-client-side-errors/focus-on-client-side-errors-in-a-monitoring-system.md) [ ]
   - [Design of a Client-side Monitoring System](monitor-client-side-errors/design-of-a-client-side-monitoring-system.md) [ ]
-- [Distributed Cache](distributed-cache/README.md) [ ]
+- [Distributed Cache](distributed-cache/README.md)
   - [System Design: The Distributed Cache](distributed-cache/system-design-the-distributed-cache.md) [ ]
   - [Background of Distributed Cache](distributed-cache/background-of-distributed-cache.md) [ ]
   - [High-level Design of a Distributed Cache](distributed-cache/high-level-design-of-a-distributed-cache.md) [ ]
   - [Detailed Design of a Distributed Cache](distributed-cache/detailed-design-of-a-distributed-cache.md) [ ]
   - [Evaluation of a Distributed Cache's Design](distributed-cache/evaluation-of-a-distributed-caches-design.md) [ ]
   - [Memcached versus Redis](distributed-cache/memcached-versus-redis.md) [ ]
-- [Distributed Messaging Queue](distributed-messaging-queue.md) [ ]
+- [Distributed Messaging Queue](distributed-messaging-queue.md)
   - [System Design: The Distributed Messaging Queue](distributed-messaging-queue/system-design-the-distributed-messaging-queue.md) [ ]
   - [Requirements of a Distributed Messaging Queue’s Design](distributed-messaging-queue/requirements-of-a-distributed-messaging-queues-design.md) [ ]
   - [Considerations of a Distributed Messaging Queue’s Design](distributed-messaging-queue/considerations-of-a-distributed-messaging-queues-design.md) [ ]
@@ -95,46 +95,46 @@
   - [Design of a Distributed Messaging Queue: Part 2](distributed-messaging-queue/design-of-a-distributed-messaging-queue-part-2.md) [ ]
   - [Evaluation of a Distributed Messaging Queue’s Design](distributed-messaging-queue/evaluation-of-a-distributed-messaging-queues-design.md) [ ]
   - [Quiz on the Distributed Messaging Queue’s Design](distributed-messaging-queue/quiz-on-the-distributed-messaging-queues-design.md) [ ]
-- [Pub-sub](pub-sub/README.md) [ ]
+- [Pub-sub](pub-sub/README.md)
   - [System Design: The Pub-sub Abstraction](pub-sub/system-design-the-pub-sub-abstraction.md) [ ]
   - [Introduction to Pub-sub](pub-sub/introduction-to-pub-sub.md) [ ]
   - [Design of a Pub-sub System](pub-sub/design-of-a-pub-sub-system.md) [ ]
-- [Rate Limiter](rate-limiter.md) [ ]
+- [Rate Limiter](rate-limiter.md)
   - [System Design: The Rate Limiter](rate-limiter/system-design-the-rate-limiter.md) [ ]
   - [Requirements of a Rate Limiter’s Design](rate-limiter/requirements-of-a-rate-limiters-design.md) [ ]
   - [Design of a Rate Limiter](rate-limiter/design-of-a-rate-limiter.md) [ ]
   - [Rate Limiter Algorithms](rate-limiter/rate-limiter-algorithms.md) [ ]
   - [Quiz on the Rate Limiter’s Design](rate-limiter/quiz-on-the-rate-limiters-design.md) [ ]
-- [Blob Store](blob-store.md) [ ]
+- [Blob Store](blob-store.md)
   - [System Design: A Blob Store](blob-store/system-design-a-blob-store.md) [ ]
   - [Requirements of a Blob Store's Design](blob-store/requirements-of-a-blob-stores-design.md) [ ]
   - [Design of a Blob Store](blob-store/design-of-a-blob-store.md) [ ]
   - [Design Considerations of a Blob Store](blob-store/design-considerations-of-a-blob-store.md) [ ]
   - [Evaluation of a Blob Store's Design](blob-store/evaluation-of-a-blob-stores-design.md) [ ]
   - [Quiz on the Blob Store's Design](blob-store/quiz-on-the-blob-stores-design.md) [ ]
-- [Distributed Search](distributed-search.md) [ ]
+- [Distributed Search](distributed-search.md)
   - [System Design: The Distributed Search](distributed-search/system-design-the-distributed-search.md) [ ]
   - [Requirements of a Distributed Search System's Design](distributed-search/requirements-of-a-distributed-search-systems-design.md) [ ]
   - [Indexing in a Distributed Search](distributed-search/indexing-in-a-distributed-search.md) [ ]
   - [Design of a Distributed Search](distributed-search/design-of-a-distributed-search.md) [ ]
   - [Scaling Search and Indexing](distributed-search/scaling-search-and-indexing.md) [ ]
   - [Evaluation of a Distributed Search's Design](distributed-search/evaluation-of-a-distributed-searchs-design.md) [ ]
-- [Distributed Logging](distributed-logging.md) [ ]
+- [Distributed Logging](distributed-logging.md)
   - [System Design: Distributed Logging](distributed-logging/system-design-distributed-logging.md) [ ]
   - [Introduction to Distributed Logging](distributed-logging/introduction-to-distributed-logging.md) [ ]
   - [Design of a Distributed Logging Service](distributed-logging/design-of-a-distributed-logging-service.md) [ ]
-- [Distributed Task Scheduler](distributed-task-scheduler.md) [ ]
+- [Distributed Task Scheduler](distributed-task-scheduler.md)
   - [System Design: The Distributed Task Scheduler](distributed-task-scheduler/system-design-the-distributed-task-scheduler.md) [ ]
   - [Requirements of a Distributed Task Scheduler's Design](distributed-task-scheduler/requirements-of-a-distributed-task-schedulers-design.md) [ ]
   - [Design of a Distributed Task Scheduler](distributed-task-scheduler/design-of-a-distributed-task-scheduler.md) [ ]
   - [Design Considerations of a Distributed Task Scheduler](distributed-task-scheduler/design-considerations-of-a-distributed-task-scheduler.md) [ ]
   - [Evaluation of a Distributed Task Scheduler's Design](distributed-task-scheduler/evaluation-of-a-distributed-task-schedulers-design.md) [ ]
-- [Sharded Counters](sharded-counters.md) [ ]
+- [Sharded Counters](sharded-counters.md)
   - [System Design: The Sharded Counters](sharded-counters/system-design-the-sharded-counters.md) [ ]
   - [High-level Design of Sharded Counters](sharded-counters/high-level-design-of-sharded-counters.md) [ ]
   - [Detailed Design of Sharded Counters](sharded-counters/detailed-design-of-sharded-counters.md) [ ]
   - [Quiz on the Sharded Counters' Design](sharded-counters/quiz-on-the-sharded-counters-design.md) [ ]
-- [Concluding the Building Blocks Discussion](concluding-the-building-blocks-discussion.md) [ ]
+- [Concluding the Building Blocks Discussion](concluding-the-building-blocks-discussion.md)
   - [Wrapping Up the Building Blocks Discussion](concluding-the-building-blocks-discussion/wrapping-up-the-building-blocks-discussion.md) [ ]
   - [The RESHADED Approach for System Design](concluding-the-building-blocks-discussion/the-reshaded-approach-for-system-design.md) [ ]
 - [Design YouTube](design-youtube.md) [ ]
