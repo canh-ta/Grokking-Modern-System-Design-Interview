@@ -28,7 +28,7 @@
   - [Global and Local Load Balancing](load-balancers/global-and-local-load-balancing.md) [ ]
   - [Advanced Details of Load Balancers](load-balancers/advanced-details-of-load-balancers.md) [ ]
 - [Databases](databases.md)
-  - [Introduction to Databases](databases/introduction-to-databases.md) [ ]
+  - [Introduction to Databases](databases/introduction-to-databases.md) [x]
   - [Types of Databases](databases/types-of-databases/README.md) [ ]
     - [Relational Database](databases/types-of-databases/relational-database.md) [ ]
     - [Document-Oriented Database](databases/types-of-databases/document-oriented-database.md) [ ]
